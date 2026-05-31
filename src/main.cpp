@@ -1,6 +1,10 @@
 #include <vector>
 #include <iostream>
 
+#include "../include/card.h"
+#include "../include/model.h"
+
+
 int main()
 {
     // TODO:
